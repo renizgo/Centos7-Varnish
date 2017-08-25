@@ -66,7 +66,7 @@ Aug 24 16:49:52 e97c2958cf66 varnishd[137]: Child (161) said Child starts
 Acesse a página web do [Localhost:6081](http://127.0.0.1:6081 "Localhost:6081")
 
 Imagem01: 
-![Imagem01](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Imagem01")
+![Imagem01](https://github.com/renizgo/Centos7-Varnish/blob/master/Imagem01.png "Imagem01")
 
 Esta tela mostra que seu Varnish Cache está funcionando porém sem configurações.
 
@@ -101,10 +101,10 @@ backend default {
 Quando acessar o [Localhost:6081](http://127.0.0.1:6081 "Localhost:6081")
 
 Imagem02: 
-![Imagem02](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Imagem02")
+![Imagem02](https://github.com/renizgo/Centos7-Varnish/blob/master/Imagem02.png "Imagem02")
 
 Imagem03: 
-![Imagem03](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Imagem03")
+![Imagem03](https://github.com/renizgo/Centos7-Varnish/blob/master/Imagem03.png "Imagem03")
 
 
 Estas telas mostram que o seu Varnish está funcional.
